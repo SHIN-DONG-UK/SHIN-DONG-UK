@@ -4,11 +4,22 @@
 ---
 
 ## 👀 About Me
-📖 **I am currently studying at Samsung Software Ai Academy for Youth(SSAFY), focusing on advanced software development.**
 
-✊ **I am aspiring to become a Production Technology Software Engineer.**
+### 🎓 Education 
+**Bachelor of Electronics, Yeungnam University(YU)**
 
-🎓 **Bachelor of Electronics, Yeungnam University(YU)**
+<br>
+
+### 🚀 Experience and Activities 
+**Undergraduate Research student at the CVSL Lab in Yeungnam University. (2022-2023)**
+
+**Student-Built Car Club, Myeve (2023)**
+
+**Samsung Software Ai Academy for Youth(SSAFY) 12th (2024-2025)**
+
+
+<br>
+<Br>
 
 ## 🛠️ Tech Stack
 **Language**  
