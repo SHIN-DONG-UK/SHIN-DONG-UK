@@ -1,5 +1,5 @@
-<h1 align="center">👋 신동욱의 GitHub에 오신 걸 환영합니다!</h1>
-<p align="center">컴퓨터비전과 임베디드 시스템, 그리고 스마트 팩토리 자동화에 관심이 많은 개발자입니다.</p>
+<h1 align="center">👋 Welcome to Dongwook Shin’s GitHub!!</h1>
+<p align="center">I’m a developer with a strong interest in computer vision, embedded systems, and smart factory automation.</p>
 
 ---
 
