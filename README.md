@@ -10,7 +10,7 @@
 
 🎓 **Bachelor of Electronics, Yeungnam University(YU)**
 
-## 🛠️ 기술 스택
+## 🛠️ Tech Stack
 **Language**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,16 +28,7 @@
 
 ---
 
-## 📌 주요 프로젝트
-| 프로젝트명 | 기술 | 설명 |
-|------------|------|------|
-
-
-👉 [자세히 보기](https://github.com/SHIN-DONG-UK)
-
----
-
-## 📫 연락처
+## 📫 Contact
 - Email: ehd2610@naver.com  
 - Blog: [https://dongwook-devlog.tistory.com](https://velog.io/@ehd2610/posts)
 
