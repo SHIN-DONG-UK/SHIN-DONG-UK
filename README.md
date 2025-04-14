@@ -3,6 +3,13 @@
 
 ---
 
+## 👀 About Me
+**I am currently studying at Samsung Software Ai Academy for Youth(SSAFY), focusing on advanced software development.**
+
+**I am aspiring to become a Production Technology Software Engineer.**
+
+- **Bachelor of Electronics, Yeungnam University(YU)**
+
 ## 🛠️ 기술 스택
 **Language**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
