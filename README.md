@@ -1,8 +1,6 @@
 <h1 align="center">👋 신동욱의 GitHub에 오신 걸 환영합니다!</h1>
 <p align="center">컴퓨터비전과 임베디드 시스템, 그리고 스마트 팩토리 자동화에 관심이 많은 개발자입니다.</p>
 
-
-
 ---
 
 ## 🛠️ 기술 스택
@@ -34,15 +32,9 @@
 
 ---
 
-## 📈 GitHub 통계
-![Dongwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongwook-shin&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwook-shin&layout=compact)
-
----
-
 ## 📫 연락처
-- Email: example@email.com  
-- Blog: https://dongwook-devlog.tistory.com
+- Email: ehd2610@naver.com  
+- Blog: [https://dongwook-devlog.tistory.com](https://velog.io/@ehd2610/posts)
 
 
 <!--
