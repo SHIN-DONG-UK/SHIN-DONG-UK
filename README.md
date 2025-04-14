@@ -1,14 +1,14 @@
-<h1 align="center">👋 Welcome to Dongwook Shin’s GitHub!!</h1>
+<h1 align="center">👋 Welcome to Donguk Shin’s GitHub!!</h1>
 <p align="center">I’m a developer with a strong interest in computer vision, embedded systems, and smart factory automation.</p>
 
 ---
 
 ## 👀 About Me
-**I am currently studying at Samsung Software Ai Academy for Youth(SSAFY), focusing on advanced software development.**
+📖 **I am currently studying at Samsung Software Ai Academy for Youth(SSAFY), focusing on advanced software development.**
 
-**I am aspiring to become a Production Technology Software Engineer.**
+✊ **I am aspiring to become a Production Technology Software Engineer.**
 
-- **Bachelor of Electronics, Yeungnam University(YU)**
+🎓 **Bachelor of Electronics, Yeungnam University(YU)**
 
 ## 🛠️ 기술 스택
 **Language**  
