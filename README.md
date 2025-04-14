@@ -41,7 +41,7 @@
 
 ## 📫 Contact
 - Email: ehd2610@naver.com  
-- Blog: [https://dongwook-devlog.tistory.com](https://velog.io/@ehd2610/posts)
+- Blog: [Velog](https://velog.io/@ehd2610/posts)
 
 
 <!--
