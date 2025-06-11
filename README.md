@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehd2610)](https://solved.ac/ehd2610/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehd2610)](https://solved.ac/ehd2610/)]
 
 ---
 
