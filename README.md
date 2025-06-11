@@ -13,7 +13,7 @@
 ### 🚀 Experience and Activities 
 **Undergraduate Research student at the CVSL Lab in Yeungnam University. (2022-2023)**
 
-**Student-Built Car Club, Myeve (2023)**
+**Student Automotive Club, Myeve (2023)**
 
 **Samsung Software Ai Academy for Youth(SSAFY) 12th (2024-2025)**
 
